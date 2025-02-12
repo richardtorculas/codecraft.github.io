@@ -880,7 +880,7 @@ Men
 #men .owl-nav .owl-prev:before {
   display: inline-block;
   font-family: 'FontAwesome';
-  color: #2a2a2a;
+  color: #FCA311;
   font-size: 25px;
   font-weight: 700;
   content: '\f104';
@@ -888,7 +888,7 @@ Men
   height: 50px;
   background-color: transparent;
   line-height: 48px;
-  border :1px solid #2a2a2a;
+  border :1px solid #fff;
 }
 
 #men .owl-nav .owl-prev {
@@ -918,7 +918,7 @@ Men
 #men .owl-nav .owl-next:before {
   display: inline-block;
   font-family: 'FontAwesome';
-  color: #2a2a2a;
+  color: #FCA311;
   font-size: 25px;
   font-weight: 700;
   content: '\f105';
@@ -926,7 +926,7 @@ Men
   height: 50px;
   background-color: transparent;
   line-height: 48px;
-  border :1px solid #2a2a2a;
+  border :1px solid #fff;
 }
 
 
@@ -1041,7 +1041,7 @@ Women
 #women .owl-nav .owl-prev:before {
   display: inline-block;
   font-family: 'FontAwesome';
-  color: #2a2a2a;
+  color: #FCA311;
   font-size: 25px;
   font-weight: 700;
   content: '\f104';
@@ -1049,7 +1049,7 @@ Women
   height: 50px;
   background-color: transparent;
   line-height: 48px;
-  border :1px solid #2a2a2a;
+  border :1px solid #fff;
 }
 
 #women .owl-nav .owl-prev {
@@ -1079,7 +1079,7 @@ Women
 #women .owl-nav .owl-next:before {
   display: inline-block;
   font-family: 'FontAwesome';
-  color: #2a2a2a;
+  color: #FCA311;
   font-size: 25px;
   font-weight: 700;
   content: '\f105';
@@ -1087,7 +1087,7 @@ Women
   height: 50px;
   background-color: transparent;
   line-height: 48px;
-  border :1px solid #2a2a2a;
+  border :1px solid #fff;
 }
 
 /*
@@ -1201,7 +1201,7 @@ Kids
 #kids .owl-nav .owl-prev:before {
   display: inline-block;
   font-family: 'FontAwesome';
-  color: #2a2a2a;
+  color: #FCA311;
   font-size: 25px;
   font-weight: 700;
   content: '\f104';
@@ -1209,7 +1209,7 @@ Kids
   height: 50px;
   background-color: transparent;
   line-height: 48px;
-  border :1px solid #2a2a2a;
+  border :1px solid #fff;
 }
 
 #kids .owl-nav .owl-prev {
@@ -1239,7 +1239,7 @@ Kids
 #kids .owl-nav .owl-next:before {
   display: inline-block;
   font-family: 'FontAwesome';
-  color: #2a2a2a;
+  color: #FCA311;
   font-size: 25px;
   font-weight: 700;
   content: '\f105';
@@ -1247,7 +1247,7 @@ Kids
   height: 50px;
   background-color: transparent;
   line-height: 48px;
-  border :1px solid #2a2a2a;
+  border :1px solid #fff;
 }
 
 
